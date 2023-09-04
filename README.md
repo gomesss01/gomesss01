@@ -1,3 +1,6 @@
+# 👋 Hello! Welcome to my Github profile.
+## My name is João Paulo and my nickname is Gomes!
+
 <div>
 <a href="https://github.com/gomesss01">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesss01&layout=compact&langs_count=7&theme=dracula"/>
