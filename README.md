@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is João Paulo and my nickname is Gomes!
+# Hello, my name is João Paulo!
+## Welcome to my GitHub profile 👋
 
 <div>
 <a href="https://github.com/gomesss01">
